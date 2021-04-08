@@ -3137,3 +3137,17 @@ input, select, textarea {
 					}
 
 	}
+
+/* Headline */
+
+	@media screen and (max-width: 2560px) {
+		#headline {
+			float: right;
+		}
+	}
+
+	@media screen and (max-width: 840px) {
+		#headline {
+			float: none;
+		}
+	}
