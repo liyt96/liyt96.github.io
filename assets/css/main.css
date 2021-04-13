@@ -1747,6 +1747,8 @@ input, select, textarea {
 
 	section, article {
 		margin-bottom: 3em;
+		margin-left: 1em;
+		margin-right: 1em;
 	}
 
 		section > :last-child, section:last-child, article > :last-child, article:last-child {
